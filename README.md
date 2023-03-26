@@ -1,1 +1,1 @@
-https://hdjdwo.github.io/rsschool-cv/
+https://hdjdwo.github.io/rsschool-cv/cv
