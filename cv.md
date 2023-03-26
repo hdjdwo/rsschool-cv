@@ -1,4 +1,5 @@
 1. Vlad Skaskevich
+--
 2. email: vlad.1488skaskevich@gmail.com   tel: +375293217143
 3. I am a beginner developer. I came to this course to improve my knowledge in this area, as well as to look at the work of other people and their ways to solve certain problems and get a fair assessment of my knowledge. At the moment I work on distribution and try to combine my work and study. In the Future, I would like to connect my life with frontend development.
 4. I have good knowledge in HTML and CSS, and also excelled in JS. I started learning Git recently and I am new to this issue.
