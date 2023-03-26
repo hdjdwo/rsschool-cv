@@ -4,8 +4,9 @@
 4. I have good knowledge in HTML and CSS, and also excelled in JS. I started learning Git recently and I am new to this issue.
 5. Completed a lot of tasks from Codewars  
 example of one of the tasks:
-*DESCRIPTION*:
------------------
+
+*DESCRIPTION:*
+------------------------------------------
 One of the common ways of representing color is the RGB color model, in which the Red, Green, and Blue primary colors of light are added together in various ways to reproduce a broad array of colors.
 
 One of the ways to determine brightness of a color is to find the value V of the alternative HSV (Hue, Saturation, Value) color model. Value is defined as the largest component of a color:
